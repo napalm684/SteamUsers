@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e978fa54-ca60-4e38-8939-6e0485930b9c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/SteamUsers.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/typescript-compiler.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
     </list>
     <ignored path="SteamUsers.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -306,12 +308,20 @@
       <workItem from="1479128248446" duration="15824000" />
       <workItem from="1479172839515" duration="342000" />
       <workItem from="1479214746870" duration="12000" />
-      <workItem from="1479214926810" duration="958000" />
+      <workItem from="1479214926810" duration="1053000" />
     </task>
+    <task id="LOCAL-00001" summary="Setup .gitignore">
+      <created>1479215909552</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1479215909552</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17136000" />
+    <option name="totallyTimeSpent" value="17231000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
@@ -349,6 +359,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Setup .gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="Setup .gitignore" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
