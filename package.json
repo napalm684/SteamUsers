@@ -1,0 +1,23 @@
+{
+  "name": "steamusers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shawn Vause",
+  "license": "MIT",
+  "devDependencies": {
+    "express": "^4.14.0",
+    "gulp": "^3.9.1",
+    "request": "^2.78.0",
+    "typescript": "^2.0.9",
+    "typings": "^2.0.0"
+  },
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "materialize-css": "^0.97.8",
+    "requirejs": "^2.3.2"
+  }
+}
