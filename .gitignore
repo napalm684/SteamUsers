@@ -1,0 +1,10 @@
+#Directories
+.idea/
+.tmp/
+node_modules/
+temp/
+tmp/
+typings/
+
+#Files
+server.js
