@@ -1,0 +1,12 @@
+body{
+    /*overflow-x: hidden;*/
+}
+
+.brand-logo-img{
+    padding-top: 8px;
+}
+
+.navbar{
+    background-color: #000000;
+    width: 100%;
+}

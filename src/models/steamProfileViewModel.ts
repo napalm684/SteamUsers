@@ -4,4 +4,5 @@ export interface ISteamProfileViewModel{
     avatarmedium: string;
     avatarfull: string;
     personastate: string;
+    profileurl: string;
 }

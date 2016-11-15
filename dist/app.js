@@ -119,7 +119,7 @@ define("app/main", ["require", "exports", "jquery", "services/steamUserService",
                     "<p>" + profile.personaname + "</p>" +
                     "</div>" +
                     "<div class='card-action'>" +
-                    "<a href=''#'>This is a link</a>" +
+                    "<a href='" + profile.profileurl + "'>Profile</a>" +
                     "</div>" +
                     "</div>" +
                     "</div>" +

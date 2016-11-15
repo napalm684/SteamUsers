@@ -36,7 +36,7 @@ export class Main{
                                                     "<p>" + profile.personaname + "</p>" +
                                                 "</div>" +
                                                 "<div class='card-action'>" +
-                                                    "<a href=''#'>This is a link</a>" +
+                                                    "<a href='" + profile.profileurl + "'>Profile</a>" +
                                                 "</div>" +
                                             "</div>" +
                                         "</div>" +
@@ -49,5 +49,5 @@ export class Main{
     }
 }
 
-var main = new Main();
+let main = new Main();
 main.run();
