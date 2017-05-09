@@ -10,5 +10,7 @@ var apiKey = "<APIKEYHERE>";
 Remember to use npm install and typings install then just run gulp.
 
 Requires:
+
 npm install gulp -g
+
 npm install typings -g
