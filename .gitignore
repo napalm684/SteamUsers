@@ -5,6 +5,7 @@ node_modules/
 temp/
 tmp/
 typings/
+dist/
 
 #Files
 server.js
